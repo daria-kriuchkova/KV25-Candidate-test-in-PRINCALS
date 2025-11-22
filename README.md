@@ -3,21 +3,19 @@ Finding your top election candidate based on Principal Component Analysis
 
 ### Context
 
-Last week I got an invitation to vote in Kommunalvalg in Copenhagen. I was excited to get it, but knew little about the political landscape of the municipality (maybe 2 biggest parties).
+Last week I got to vote in Copenhagen Kommunalvalg for the first time. I was excited about it, but knew little about the political landscape of the municipality except maybe 2 biggest parties.
 
 For people like me Danish news outlets like [DR](https://www.dr.dk/nyheder/politik/kommunalvalg/kandidattest) and [TV2](https://nyheder.tv2.dk/kandidattest) created tests designed to help you find the candidates whose views on the hottest issues align the most with yours. I took them both and got some recommendations, but didn't feel very aligned with my top suggestions.
 
 So, I decided to use the published answers to make my own test and see if I get different results.
-
   
 ### Who is this for
-
   
 - First-time voters who want to understand the landscape in general.
 - Foreigners interested in local politics of Copenhagen.
 - Copenhageners who want to challenge their bias.
   
-Although I'm sure that to Danes most of my findings will be obvious, and they can contextualize them much better.
+Although I'm sure that most Danes will find my findings obvious, and will be able to contextualize them much better.
 
 ### DR and TV2 Kandidattest comparison
 
