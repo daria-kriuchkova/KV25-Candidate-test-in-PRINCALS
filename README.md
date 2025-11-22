@@ -32,11 +32,10 @@ I think in general, showing arguments creates bias, but they are not automatical
 
 2. **Answer scale**
 
-- DR: 4-point scale. Uenig - Lidt Uenig - Lidt Enig - Enig
-- TV2: 5-point scale: Helt uenig - Uenig - Neutral - Enig - Helt enig
+- DR: 4-point scale. Disagree - Somewhat Disagree - Somewhat Agree - Agree
+- TV2: 5-point scale: Totally Disagree - Disagree - Neutral - Agree - Totally Agree
 
 I personally prefer DR's scale because it presents 2 middle options as variations of neutral, but allows to see your inclination while omitting 'true neutral'.
-
 
 3. **Question phrasing**
   
