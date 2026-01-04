@@ -6,7 +6,7 @@
 
 # SUMMARY
 
-This is an alternative method for finding your top candidates and parties in municipal elections:
+This is an alternative method of finding your top candidates and parties in municipal elections:
 
 <p align="center">
   <img src="images/final.png" width="90%">
