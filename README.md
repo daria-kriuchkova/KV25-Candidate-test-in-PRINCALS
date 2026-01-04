@@ -314,15 +314,3 @@ As the next step of my project I will:
    1. Response patterns and overlap  
    2. Niche Key Issues  
 2. Make a responsive Shiny app
-
-[image1]:images/likert.png
-[image2]:images/transplot.png
-[image3]:images/scree_plot.png
-[image4]:images/pc1_pc2.png
-[image5]:images/pc2_pc3.png
-[image6]:images/pc1_pc2_rot.png
-[image7]:images/dr_result.png
-[image8]:images/princals_all.png
-[image9]:images/princals_filter.png
-[image8]:images/princals_all.png
-[image9]:images/princals_filter_on.png
