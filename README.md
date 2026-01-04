@@ -261,7 +261,7 @@ For example, if I chose Q1 as important and selected ‘Agree’ as my response,
   <img src="images/final.png" width="90%">
 </p>
 
-*Fig 8: PRINCALS mapping the filter on important questions (• pass the filter, ✖ don’t).*
+*Fig 8: PRINCALS mapping the filter on important questions (• pass the filter, **x** don’t).*
 
 After applying the filter I can see more clearly 3 things about the important questions:
 
