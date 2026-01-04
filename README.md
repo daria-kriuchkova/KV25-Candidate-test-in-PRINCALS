@@ -234,14 +234,14 @@ Key insights from the chart:
 
 Top 6 candidates considering all 3 PCs (including depth):
 
-| Cand\_id, Distance | Issue 1 topic | Issue 2 topic | Issue 3 topic |
+| Cand\_id | Issue 1 topic | Issue 2 topic | Issue 3 topic |
 | :---- | :---- | :---- | :---- |
-| V\_3 0.21 | Metro to Valby and Nordvest | Allow outdoor dining | Investing in leisure centers |
-| B\_9 0.38 | Climate and green transition: coastal protection \+ green and public transport. | New green areas in the urban space | Coastal protection of Amager |
-| B\_1 0.39 | Converting rooftops and empty commercial buildings into 10,000 new apartments | 15 new open spaces in the city | Coastal protection of Amager |
-| B\_6 0.42 | Children’s wellbeing | Balancing parking, public transport, bikes and electric cars | Anti-discrimination |
-| V\_16 0.64 | Less bureaucracy for businesses | Optimising public transport  \+ metro to Bispebjerg and Bellahøj | Converting empty and underused buildings into housing |
-| V\_5 0.64 | More green urban areas | Building more apartments, allowing them to be smaller | Optimising public transport  \+ parking |
+| V\_3 | Metro to Valby and Nordvest | Allow outdoor dining | Investing in leisure centers |
+| B\_9 | Climate and green transition: coastal protection \+ green and public transport. | New green areas in the urban space | Coastal protection of Amager |
+| B\_1 | Converting rooftops and empty commercial buildings into 10,000 new apartments | 15 new open spaces in the city | Coastal protection of Amager |
+| B\_6 | Children’s wellbeing | Balancing parking, public transport, bikes and electric cars | Anti-discrimination |
+| V\_16 | Less bureaucracy for businesses | Optimising public transport  \+ metro to Bispebjerg and Bellahøj | Converting empty and underused buildings into housing |
+| V\_5 | More green urban areas | Building more apartments, allowing them to be smaller | Optimising public transport  \+ parking |
 
 Just like DR’s test, my test predicts top candidates from **Radikale Venstre** and **Venstre**.
 
@@ -277,14 +277,14 @@ On another hand, if I see that none of my nearest neighbours agree with me on im
 
 Top 6 candidates who pass the filter:
 
-| Cand\_id, Distance | Issue 1 topic | Issue 2 topic | Issue 3 topic |
+| Cand\_id | Issue 1 topic | Issue 2 topic | Issue 3 topic |
 | :---- | :---- | :---- | :---- |
-| C\_14 1.15 | Clean drinking water | Flood protection | Investing in leisure centers |
-| B\_7 1.21 | New family housing, especially in Nordvest | Fast-Track on the bike lanes | More green areas \+ metro to Nordvest and Bronshøj |
-| T\_3 1.34 | Preserving liberal left-wing values | Legilise cannabis | Better psychiatric diagnostics |
-| Ø\_19 1.43 | More public and cooperative housing | Supporting economically disadvantaged | Support for volunteer organisations |
-| Å\_9 1.45 | Stop the Lynetteholm project | Better conditions for pedestrians and handicapped | More freedom for local councils and committees. |
-| B\_12 1.48 | Treatment guarantee for depression | Psychiatric care | More solar cells on the rooftops |
+| C\_14 | Clean drinking water | Flood protection | Investing in leisure centers |
+| B\_7 | New family housing, especially in Nordvest | Fast-Track on the bike lanes | More green areas \+ metro to Nordvest and Bronshøj |
+| T\_3 | Preserving liberal left-wing values | Legilise cannabis | Better psychiatric diagnostics |
+| Ø\_19 | More public and cooperative housing | Supporting economically disadvantaged | Support for volunteer organisations |
+| Å\_9 | Stop the Lynetteholm project | Better conditions for pedestrians and handicapped | More freedom for local councils and committees. |
+| B\_12 | Treatment guarantee for depression | Psychiatric care | More solar cells on the rooftops |
 
 Although these candidates agree with me on the questions that were included in the survey, looking at the Key Issues, I can’t see anything that picks my interest. 
 
