@@ -8,7 +8,9 @@
 
 This is an alternative method for finding your top candidates and parties in municipal elections:
 
-![][image9]
+<p align="center">
+  <img src="images/final.png" width="90%">
+</p>
 
 * Maps all the candidates and shows how you compare to all of them in terms of  overall response patterns.  
 * Allows to apply a hard filter on important questions  
@@ -30,7 +32,9 @@ In November 2025 I got to vote in the Copenhagen Kommunalvalg for the first time
 
 For people like me several Danish news outlets ([DR](https://www.dr.dk/nyheder/politik/kommunalvalg/kandidattest), [TV2](https://nyheder.tv2.dk/kandidattest) and [Altinget](https://www.altinget.dk/kandidattest/KV25)) offered Candidate tests that had 19 \- 28 questions on the most popular issues with 4- or 5-scale Likert scale replies. 
 
-![][image1]
+<p align="center">
+  <img src="images/likert.png" width="50%">
+</p>
 
 Once completed, the sites calculate a distance between your answers and all the candidates and suggest top 3 candidates based on your overall agreement.
 
@@ -103,7 +107,10 @@ For the simplicity of the analysis I picked standard initial values that have op
 
 **PRINCALs** is an iterative function that treats the numeric scores as ordinal, runs the Principal Component Analysis on them and evaluates how well the resulting components explain the variation in the dataset. Based on the evaluation, these scores are adjusted to better fit the component structure while preserving the original order. The process is repeated iteratively, and stops when category values and explained variance stabilize and  further iterations do not meaningfully improve the PCA solution. In my case it took 16 iterations.
 
-![][image2]
+<p align="center">
+  <img src="images/transplot.png" width="100%">
+</p>
+
 
 *Fig 1: Scores on Principal Component 1* 
 
@@ -111,7 +118,10 @@ In the chart above you can see that Question 7 (adding more solar cells) is not 
 
 ## Selecting the number of Principal components for plotting
 
-![][image3]
+<p align="center">
+  <img src="images/scree_plot.png" width="70%">
+</p>
+
 
 *Fig 2: Variance explained by each Principal Component*
 
@@ -125,7 +135,9 @@ I will take 2 components for the plot (PC1 and PC2) and keep the third (PC3) to 
 
 * #### PC1 vs PC2
 
-  ![][image4]
+<p align="center">
+  <img src="images/pc1_pc2.png" width="60%">
+</p>
 
 *Fig 3: Loadings chart PC1 vs PC2*
 
@@ -143,7 +155,9 @@ Other insights from the dataset:
 
 Since PC1 explains 50% of the variance, I will extract the residuals from PC2 and PC3 to see their loadings without the influence from PC1 to see which questions matter the most.
 
-![][image5]
+<p align="center">
+  <img src="images/pc2_pc3.png" width="60%">
+</p>
 
 *Fig 4: Residual loadings,  PC2 vs PC3 controlled for PC1*
 
@@ -161,7 +175,9 @@ Since PC1 explains 50% of the variance, I will extract the residuals from PC2 an
 
 To better understand my position on PC1 vs PC2, I will rotate the coordinates to make sure that the main ideological vector is horizontal, and all the socialist-leaning parties are on the left to make it more intuitive.
 
-![][image6]
+<p align="center">
+  <img src="images/pc1_pc2_rot.png" width="60%">
+</p>
 
 *Fig 5: New rotates coordinates*
 
@@ -171,7 +187,9 @@ To better understand my position on PC1 vs PC2, I will rotate the coordinates to
 
 ## DR test result
 
-![][image7]
+<p align="center">
+  <img src="images/dr_result.png" width="60%">
+</p>
 
 *Fig 6: My top candidates according to the DR Candidate test*
 
@@ -188,7 +206,9 @@ To visualize the results I took the rotated PC1 and PC2.
 
 **Note**: the horizontal axis (PC1) appears stretched to show the variance.
 
-![][image8]
+<p align="center">
+  <img src="images/princals_all.png" width="90%">
+</p>
 
 *Fig 7: Mapping major parties. Bigger dots represent \#1 party candidates.* 
 
@@ -237,7 +257,9 @@ I introduced the ‘Important question filter’. This filter takes a list of th
 
 For example, if I chose Q1 as important and selected ‘Agree’ as my response, all candidates who answered ‘Agree’ or ‘Somewhat agree’ would pass the filter.
 
-![][image9]
+<p align="center">
+  <img src="images/final.png" width="90%">
+</p>
 
 *Fig 8: PRINCALS mapping the filter on important questions (• pass the filter, ✖ don’t).*
 
