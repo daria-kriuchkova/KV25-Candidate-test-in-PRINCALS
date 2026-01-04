@@ -8,6 +8,8 @@
 
 This is an alternative method for finding your top candidates and parties in municipal elections:
 
+![][image9]
+
 * Maps all the candidates and shows how you compare to all of them in terms of  overall response patterns.  
 * Allows to apply a hard filter on important questions  
 * Shows visually which parties, candidates and possible mayors align with you the most.
