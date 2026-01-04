@@ -4,7 +4,7 @@
 
 ***Gifi** library and **PRINCALS** method in **R**.*
 
-# EXECUTIVE SUMMARY
+# SUMMARY
 
 This is an alternative method for finding your top candidates and parties in municipal elections:
 
